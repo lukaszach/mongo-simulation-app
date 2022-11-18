@@ -1,0 +1,7 @@
+{
+  "name": "mongo-simulation-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "4.7.0"
+  }
+}
